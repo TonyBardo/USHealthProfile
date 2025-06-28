@@ -48,3 +48,48 @@ us-health-profile/
 ├── dashboard/
 │   └── BRFSS.twb  # Tableau workbook file
 └── README.md
+```
+---
+
+## 📈 Key Features of the Dashboard
+
+- Nationwide and regional maps showing prevalence of:
+  - Diabetes
+  - Obesity (based on BMI)
+  - Poor or Fair Self-Rated Health
+- Trend lines over time for:
+  - The U.S. overall
+  - Regions (Northeast, Midwest, South, West)
+  - Individual states
+- Dropdown filters for:
+  - Year (2021–2023)
+  - Health outcome
+  - Region or state
+- Interactive legends and dynamic titles
+
+Designed for public health staff and policy decision-makers to explore trends, compare regions, and identify high-priority states or outcomes.
+
+---
+
+## 🔄 Data Source
+
+- U.S. CDC's Behavioral Risk Factor Surveillance System (BRFSS)  
+  🔗 https://www.cdc.gov/brfss/annual_data/annual_data.htm
+
+---
+
+## 🧠 Key Skills Demonstrated
+
+✅ Extracting and cleaning raw ASCII data using R  
+✅ Standardizing and combining multi-year survey data  
+✅ Creating calculated fields and filtering logic  
+✅ Designing user-friendly dashboards with responsive interactivity  
+✅ Translating complex data into policy-relevant insights
+
+---
+
+## 📬 Contact
+
+**Tony Bardo**  
+
+📫 bardoar@gmail.com  
