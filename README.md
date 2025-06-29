@@ -21,12 +21,6 @@ The goal was to simulate a real-world workflow where a data analyst prepares mes
 
 ---
 
-## 📊 Dashboard Preview
-
-👉 **[View the Interactive Dashboard (Tableau Public)](https://public.tableau.com/app/profile/tony.bardo/viz/USHealthProfile/Dashboard1?publish=yes)**
-
----
-
 ## 🧱 Project Structure
 
 ```bash
@@ -68,6 +62,12 @@ us-health-profile/
 - Interactive legends and dynamic titles
 
 Designed for public health staff and policy decision-makers to explore trends, compare regions, and identify high-priority states or outcomes.
+
+---
+
+## 📊 Dashboard Preview
+
+👉 **[View the Interactive Dashboard (Tableau Public)](https://public.tableau.com/app/profile/tony.bardo/viz/USHealthProfile/Dashboard1?publish=yes)**
 
 ---
 
